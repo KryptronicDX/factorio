@@ -11,10 +11,10 @@ Based on (Modular Mall v1.1 - by Rahbek).
 <img src="https://github.com/Kryptix-Dev/Factorio/blob/main/blueprint-images/modular-mall-built.png" /><br />
 
 Ver 1.0-
- > Upgraded to add an additional belt for coal and explosives
- > Added in belt supply indicators at entrance with alarm
- > Removed chest restrictions, added logistics to inserts to set supply limits
- > Added offense module
- > Added personal freight station w/requestor chests
- > Added spacers to separate module sections
- > Changed all belts to yellow
+* Upgraded to add an additional belt for coal and explosives
+* Added in belt supply indicators at entrance with alarm
+* Removed chest restrictions, added logistics to inserts to set supply limits
+* Added offense module
+* Added personal freight station w/requestor chests
+* Added spacers to separate module sections
+* Changed all belts to yellow
