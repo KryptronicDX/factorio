@@ -7,6 +7,9 @@ This is a repo to save and share the blueprint designs I've created in Factorio.
 ## Modular Mall [1.0]
 Based on (Modular Mall v1.1 - by Rahbek).  
 
+<img src="https://github.com/Kryptix-Dev/Factorio/blob/main/blueprint-images/modular-mall-book.png" /><br />
+<img src=https://github.com/Kryptix-Dev/Factorio/blob/main/blueprint-images/modular-mall-built.png" /><br />
+                                                                                                   
 ![Modular Mall by Kryptix] (https://github.com/Kryptix-Dev/Factorio/blob/main/blueprint-images/modular-mall-book.png "Mall Book")
 ![Built Modular Mall] (https://github.com/Kryptix-Dev/Factorio/blob/main/blueprint-images/modular-mall-built.png "Built Mall")
 
