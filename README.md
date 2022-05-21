@@ -33,8 +33,10 @@ Modified from Nilaus' "Jump Start Base".  Count of electric miners for full prod
 --------------------
 
 ## <a href="https://github.com/Kryptix-Dev/Factorio/blob/main/ore-miners-1">Ore Miners 1</a>
-## <a href="https://github.com/Kryptix-Dev/Factorio/blob/main/ore-miners-2">Ore Miners 2</a>
 Ore Miner 1 for early game with efficiency modules to help with pollution.  Ore Miner 2 for mid-game with production modules.  Both are chunk-aligned to make it easier to place.
 
 <img src="https://github.com/Kryptix-Dev/Factorio/blob/main/blueprint-images/ore-miners-1.png" />
+
+## <a href="https://github.com/Kryptix-Dev/Factorio/blob/main/ore-miners-2">Ore Miners 2</a>
+
 <img src="https://github.com/Kryptix-Dev/Factorio/blob/main/blueprint-images/ore-miners-2.png" />
