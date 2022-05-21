@@ -21,13 +21,20 @@ Ver 1.0 -
 
 --------------------
 
-## Starter Base [1.0]
+## <a href="https://github.com/Kryptix-Dev/Factorio/blob/main/starter-base">Starter Base [1.0]</a>
 Modified from Nilaus' "Jump Start Base".  Count of electric miners for full production:
 
 * [2] Coal
 * [4] Copper
 * [18] Iron
-* 
+
 <img src="https://github.com/Kryptix-Dev/Factorio/blob/main/blueprint-images/starter-base.png" />
 
+--------------------
 
+## <a href="https://github.com/Kryptix-Dev/Factorio/blob/main/ore-miners-1">Ore Miners 1</a>
+## <a href="https://github.com/Kryptix-Dev/Factorio/blob/main/ore-miners-2">Ore Miners 2</a>
+Ore Miner 1 for early game with efficiency modules to help with pollution.  Ore Miner 2 for mid-game with production modules.  Both are chunk-aligned to make it easier to place.
+
+<img src="https://github.com/Kryptix-Dev/Factorio/blob/main/blueprint-images/ore-miners-1.png" />
+<img src="https://github.com/Kryptix-Dev/Factorio/blob/main/blueprint-images/ore-miners-2.png" />
