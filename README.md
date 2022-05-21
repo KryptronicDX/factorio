@@ -4,12 +4,14 @@ This is a repo to save and share the blueprint designs I've created in Factorio.
 
 --------------------
 
+See [Contributing](.github/CONTRIBUTING.md).
+## [Modular Mall - 1.0](.github/blob/main/modular-mall)
+
 ## <a href="https://github.com/Kryptix-Dev/Factorio/blob/main/modular-mall">Modular Mall [1.0]</a>
 Based on (Modular Mall v1.1 - by Rahbek).
 
 [![Module Mall Book](https://github.com/Kryptix-Dev/Factorio/blob/main/blueprint-images/modular-mall-book.png)]
-<img src="https://github.com/Kryptix-Dev/Factorio/blob/main/blueprint-images/modular-mall-book.png" />
-<img src="https://github.com/Kryptix-Dev/Factorio/blob/main/blueprint-images/modular-mall-built.png" /><br />
+[![Module Mall Book](https://github.com/Kryptix-Dev/Factorio/blob/main/blueprint-images/modular-mall-built.png)]
 
 Ver 1.0 -
 * Upgraded to add an additional belt for coal and explosives
