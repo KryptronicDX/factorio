@@ -5,7 +5,7 @@ This is a repo to save and share the blueprint designs I've created in Factorio.
 --------------------
 
 See [Contributing](.github/CONTRIBUTING.md).
-## [Modular Mall - 1.0](.github/modular-mall)
+## [Modular Mall - 1.0](/modular-mall)
 
 ## <a href="https://github.com/Kryptix-Dev/Factorio/blob/main/modular-mall">Modular Mall [1.0]</a>
 Based on (Modular Mall v1.1 - by Rahbek).
