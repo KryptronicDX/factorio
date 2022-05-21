@@ -26,15 +26,15 @@ Ver 1.0 -
 ## [Starter Base - 1.0](/starter-base)
 Modified from Nilaus' "Jump Start Base".  Count of electric miners for full production:
 
-[![Starter Base](/blueprint-images/starter-base.png)]
+![Starter Base](/blueprint-images/starter-base.png)
 
 --------------------
 
 ## [Ore Miners 1](/ore-miners-1)
 Ore Miner 1 for early game with efficiency modules to help with pollution.  Ore Miner 2 for mid-game with production modules.  Both are chunk-aligned to make it easier to place.
 
-[![Ore Miners 1](/blueprint-images/ore-miners-1.png)]
+![Ore Miners 1](/blueprint-images/ore-miners-1.png)
 
 # [Ore Miners 1](/ore-miners-2)
 
-[![Ore Miners 1](/blueprint-images/ore-miners-2.png)]
+![Ore Miners 1](/blueprint-images/ore-miners-2.png)
