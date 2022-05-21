@@ -18,6 +18,7 @@ Ver 1.0 -
 * Added personal freight station w/requestor chests
 * Added spacers to separate module sections
 * Changed all belts to yellow
+* Added Battery-Electric train module
 
 --------------------
 
