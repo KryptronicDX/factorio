@@ -8,8 +8,8 @@ This is a repo to save and share the blueprint designs I've created in Factorio.
 
 Based on (Modular Mall v1.1 - by Rahbek).
 
-[![Module Mall Book](/blueprint-images/modular-mall-book.png)]
-[![Module Mall Book](/blueprint-images/modular-mall-built.png)]
+![Module Mall Book](/blueprint-images/modular-mall-book.png)
+![Module Mall Book](/blueprint-images/modular-mall-built.png)
 
 Ver 1.0 -
 * Upgraded to add an additional belt for coal and explosives
