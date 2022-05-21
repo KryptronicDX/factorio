@@ -24,8 +24,10 @@ Ver 1.0 -
 ## Starter Base [1.0]
 Modified from Nilaus' "Jump Start Base".  Count of electric miners for full production:
 
-<img src="/Factorio/blob/main/blueprint-images/starter-base.png" />
-
 * [2] Coal
 * [4] Copper
 * [18] Iron
+* 
+<img src="https://github.com/Kryptix-Dev/Factorio/blob/main/blueprint-images/starter-base.png" />
+
+
