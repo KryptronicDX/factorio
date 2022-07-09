@@ -67,4 +67,14 @@ Ribbon Single Rail Version 1.0 -
 
 ![Ribbon Single](/blueprint-images/ribbon-single.png)
 
+
 --------------------
+
+## [Oil Processing](/oil)
+
+This is an add-on to plug into my standard base design to handle all oil-based products, input belts for necessary resources, output belts and pipes for the main bus.
+
+Version 1.0 - 
+* Created four stages of design to allow for a staged setup as research is unlocked.
+
+![Oil Processing](/blueprint-images/oil-processing.png)
