@@ -52,7 +52,7 @@ Double Narrow Rail Version 1.2 -
 * Added modified rail crossing
 * Added T Intersection to use instead of the U-turn.
 
-![Double Narrow](/double-narrow.png)
+![Double Narrow](/blueprint-images/double-narrow.png)
 
 For a standard dimension ribbon world (128).  Trains to travel clockwide.
 
@@ -65,6 +65,6 @@ Ribbon Single Rail Version 1.0 -
 * Added crossing
 * Added a 4 station depot to collect resources
 
-![Ribbon Single](/ribbon-single.png)
+![Ribbon Single](/blueprint-images/ribbon-single.png)
 
 --------------------
