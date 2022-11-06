@@ -36,11 +36,18 @@ Added template of tiles and resource input for belt management
 
 --------------------
 
-## [Starter Base - 1.0](/starter-base)
+## [Starter Base - 1.2](/starter-base)
 
-Modified from Nilaus' "Jump Start Base".  Count of electric miners for full production:
+Modified from Nilaus' "Jump Start Base".
 
 ![Starter Base](/blueprint-images/starter-base.png)
+
+Version 1.2
+Changed layout of turbines, added a chest for additional coal buffer
+Added more steel furnaces
+Added additional iron gear assembling machine for red belts
+Added turrent, grenade, landfill, and rail assembling machines
+
 
 --------------------
 
