@@ -51,17 +51,12 @@ Added turrent, grenade, landfill, and rail assembling machines
 
 --------------------
 
-## [Ore Miners](/ore-miners-1)
-Version 1.1 - 
-* Grouped miner designs into one book
-* Added a starter miner without mods
-* Added additional prints for both efficiency and production modules
+## [Ore Miners](/ore-miners)
+Version 1.2- 
+Added a "triangle" layout for improved output for use with bots that include either effeciency or speed modules for better performance
 
-![Ore Miners 1](/blueprint-images/ore-miners-1.png)
-
-# [Ore Miners 1](/ore-miners-2)
-
-![Ore Miners 1](/blueprint-images/ore-miners-2.png)
+![Ore Miners](/blueprint-images/ore-miners-book.png)
+![Ore Miners](/blueprint-images/ore-miners-placement.png)
 
 --------------------
 
