@@ -20,6 +20,20 @@ Fixed bots module
 Split artillery and shells from weapons (allows spacing for roboports)
 Added double-interface for KotS-style mall
 
+-------------------
+
+## [Tile Mall](/tile-mall)
+
+Based on Compact Tileable Malls by Dangerpigeon
+
+![Module Mall Book](/blueprint-images/tile-mall-book.png)
+![Module Mall Book](/blueprint-images/tile-mall-built.png)
+
+Version 1.0 - 
+Added Gears, Bots & Accumlators, Ammo & Bots, Explosives, Nuclear & Silo, Artillery, Concrete, and Power Armor modules
+Modified Belts & Inserters, Electrics & Circuits, Trains & Oil to red belts, removed unused inserters, adjusted circuit limits
+Added template of tiles and resource input for belt management
+
 --------------------
 
 ## [Starter Base - 1.0](/starter-base)
