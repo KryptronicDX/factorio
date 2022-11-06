@@ -11,11 +11,14 @@ Based on Modular Mall v1.17 - by Rahbek
 ![Module Mall Book](/blueprint-images/modular-mall-book.png)
 ![Module Mall Book](/blueprint-images/modular-mall-built.png)
 
-Version 1.1 -
-* Upgraded yellow belts to red (saved yellow belt versions)
-* Tweaked the starting gears module based on updates by Rahbek
-* Added cliff explosive, artillery wagon and silo modules (by Rahbek)
-* Added new bus interface modules, and mod template (by Rahbek)
+Version 1.2 -
+Fixed train, artillery wagon, weapons & defense modules
+Adjusted tiles for transitions
+Adjusted alarm to 4 items per belt
+Changed module order
+Fixed bots module
+Split artillery and shells from weapons (allows spacing for roboports)
+Added double-interface for KotS-style mall
 
 --------------------
 
