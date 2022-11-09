@@ -12,13 +12,13 @@ Based on Modular Mall by Rahbek
 ![Module Mall Book](/blueprint-images/modular-mall-built.png)
 
 Version 1.2 -
-Fixed train, artillery wagon, weapons & defense modules
-Adjusted tiles for transitions
-Adjusted alarm to 4 items per belt
-Changed module order
-Fixed bots module
-Split artillery and shells from weapons (allows spacing for roboports)
-Added double-interface for KotS-style mall
+* Fixed train, artillery wagon, weapons & defense modules
+* Adjusted tiles for transitions
+* Adjusted alarm to 4 items per belt
+* Changed module order
+* Fixed bots module
+* Split artillery and shells from weapons (allows spacing for roboports)
+* Added double-interface for KotS-style mall
 
 -------------------
 
@@ -30,9 +30,9 @@ Based on Compact Tileable Malls by Dangerpigeon
 ![Module Mall Book](/blueprint-images/tile-mall-built.png)
 
 Version 1.0 - 
-Added Gears, Bots & Accumlators, Ammo & Bots, Explosives, Nuclear & Silo, Artillery, Concrete, and Power Armor modules
-Modified Belts & Inserters, Electrics & Circuits, Trains & Oil to red belts, removed unused inserters, adjusted circuit limits
-Added template of tiles and resource input for belt management
+* Added Gears, Bots & Accumlators, Ammo & Bots, Explosives, Nuclear & Silo, Artillery, Concrete, and Power Armor modules
+* Modified Belts & Inserters, Electrics & Circuits, Trains & Oil to red belts, removed unused inserters, adjusted circuit limits
+* Added template of tiles and resource input for belt management
 
 --------------------
 
@@ -43,10 +43,10 @@ Modified from Nilaus' "Jump Start Base".
 ![Starter Base](/blueprint-images/starter-base.png)
 
 Version 1.2
-Changed layout of turbines, added a chest for additional coal buffer
-Added more steel furnaces
-Added additional iron gear assembling machine for red belts
-Added turrent, grenade, landfill, and rail assembling machines
+* Changed layout of turbines, added a chest for additional coal buffer
+* Added more steel furnaces
+* Added additional iron gear assembling machine for red belts
+* Added turrent, grenade, landfill, and rail assembling machines
 
 
 --------------------
@@ -57,7 +57,7 @@ Added turrent, grenade, landfill, and rail assembling machines
 ![Ore Miners](/blueprint-images/ore-miners-placement.png)
 
 Version 1.2- 
-Added a "triangle" layout for improved output for use with bots that include either effeciency or speed modules for better performance
+* Added a "triangle" layout for improved output for use with bots that include either effeciency or speed modules for better performance
 
 --------------------
 
