@@ -6,7 +6,7 @@ This is a repo to save and share the blueprint designs I've created in Factorio.
 
 ## [Modular Mall](/modular-mall)
 
-Based on Modular Mall v1.17 - by Rahbek
+Based on Modular Mall by Rahbek
 
 ![Module Mall Book](/blueprint-images/modular-mall-book.png)
 ![Module Mall Book](/blueprint-images/modular-mall-built.png)
@@ -52,11 +52,12 @@ Added turrent, grenade, landfill, and rail assembling machines
 --------------------
 
 ## [Ore Miners](/ore-miners)
-Version 1.2- 
-Added a "triangle" layout for improved output for use with bots that include either effeciency or speed modules for better performance
 
 ![Ore Miners](/blueprint-images/ore-miners-book.png)
 ![Ore Miners](/blueprint-images/ore-miners-placement.png)
+
+Version 1.2- 
+Added a "triangle" layout for improved output for use with bots that include either effeciency or speed modules for better performance
 
 --------------------
 
