@@ -115,4 +115,4 @@ The second combinator receives this train limit signal and by multiplying by 1, 
 
 I've been spending time lately learning more about circuits and came across a way to make a clock.  I used that to make a holiday light and train display!  One combinator handles the clock on signal T, the other outputs the same value, but outputs on Signal S to alternate the light colors.
 
-![Holiday Display](/holiday-display.png)
+![Holiday Display](/blueprint-images/holiday-display.png)
