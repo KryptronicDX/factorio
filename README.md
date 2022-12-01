@@ -98,3 +98,15 @@ Version 1.0 -
 * Created four stages of design to allow for a staged setup as research is unlocked.
 
 ![Oil Processing](/blueprint-images/oil-processing.png)
+
+--------------------
+
+## [LTN-like Vanilla Provider Limiter](/ltn-vanilla-provider-limiter)
+
+This allows for a LTN-like provider station in Vanilla using the constant combinators.  The station allows for a max of two trains, one actively being loaded, a second in stand-by.  One combinator counts the total ores (or plates) held in the chests and divides the total by the max that the cargo train can hold.  In this case, it's set to 24,000 as this supports a 2x6 train.  The first combinator takes the total of the items in the chests, divides by the total and outputs a signal reflecting the ore (or plate) as a whole number which sends a signal to the station to set the train limit for the station.
+
+The second combinator receives this train limit signal and by multiplying by 1, turns that count into an ore (or plate) output signal that can then be transmitted over the global network (if the big electric poles have red or green wires tied to them all).  This allows for monitoring anywhere in the field that is tied to this network to track how many loads of ore (or plate) are available to pick up to monitor base demand.  I based this on a Nilaus video where he had something similar setup.
+Version 1.0 - 
+
+![LTN Vanilla Provider Limiter](/blueprint-images/train-count-2.png)
+
