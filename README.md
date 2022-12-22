@@ -111,8 +111,8 @@ The second combinator receives this train limit signal and by multiplying by 1, 
 
 --------------------
 
-## [Holiday Display](/holiday-display)
+## [Map View Power Meter](/map-view-power-meter)
 
-I've been spending time lately learning more about circuits and came across a way to make a clock.  I used that to make a holiday light and train display!  One combinator handles the clock on signal T, the other outputs the same value, but outputs on Signal S to alternate the light colors.
+For quite a while I've mostly used the electric network info by clicking on power poles to see the power, or using a basic setup with lights in a spot I'm near frequently (such as near the supply hub/mall).  This had an alarm if the power in the capacity got too low.  It worked well enough, but I wanted to give something new a try.  I had a post saved from u/warbaque for a while to have a vanilla-based view of power levels and steam (https://www.reddit.com/r/factorio/comments/vgt5at/how_to_see_your_nuclear_and_steam_power/).  I hadn't done anything with it, but decided to give it a shot now that I'm getting more comfortable with the logistics network.  I pulled up the percentage bar, made some tweaks to reduce the size some and added lights for a close visual of the power usage.  With this setup, I can see the percentage of power available in the capactors in the map with rail signal states turned on.
 
-![Holiday Display](/blueprint-images/holiday-display.png)
+![Map View Power Meter](/blueprint-images/map-view-power-meter.png)
