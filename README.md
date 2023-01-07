@@ -22,17 +22,19 @@ Version 1.2 -
 
 -------------------
 
-## [Tile Mall](/tile-mall)
+## [Tiled Supply Hub](/tile-mall)
 
 Based on Compact Tileable Malls by Dangerpigeon
 
-![Module Mall Book](/blueprint-images/tile-mall-book.png)
-![Module Mall Book](/blueprint-images/tile-mall-built.png)
+![Module Mall Book](/blueprint-images/tiled-supply-hub.png)
+![Module Mall Book](/blueprint-images/tiled-supply-hub-built.png)
 
-Version 1.0 - 
-* Added Gears, Bots & Accumlators, Ammo & Bots, Explosives, Nuclear & Silo, Artillery, Concrete, and Power Armor modules
-* Modified Belts & Inserters, Electrics & Circuits, Trains & Oil to red belts, removed unused inserters, adjusted circuit limits
-* Added template of tiles and resource input for belt management
+Version 1.1 - 
+* Renamed to Tiled Supply Hub
+* Added crude oil unbarreler in module 5 for flamethrower ammo
+* Fixed inserter logic in matteries & ports module
+* Adjusted modules that needed processing units to feed from belt
+* Added Modules
 
 --------------------
 
