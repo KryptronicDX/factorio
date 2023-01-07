@@ -22,7 +22,7 @@ Version 1.2 -
 
 -------------------
 
-## [Tiled Supply Hub](/tile-mall)
+## [Tiled Supply Hub](/tiled-supply-hub)
 
 Based on Compact Tileable Malls by Dangerpigeon
 
