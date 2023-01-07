@@ -101,6 +101,14 @@ The uranium fuel cell output and spent fuel cell input is placed to work with th
 
 --------------------
 
+## [Solid Fuel Steam Engine Power Center](/solid-fuel-power-center)
+
+This is a steam engine power center using solid fuel as the fuel source.  With solid fuel and red belts, this can supply 80 steam engines.  There is also a buffer steel chest to hold unto excess solid fuel as backup.  There is also a capacitor that's wired up to the water pumps to shut them down when the capacitor supply is over 25%.  This isn't a design that'll likely be used, but if there is excess oil, then it can use that up.
+
+![Solid Fuel Steam Engine Power Center](/blueprint-images/solid-fuel-power-center.png)
+
+--------------------
+
 ## [Modular Mall](/modular-mall)
 
 Based on Modular Mall by Rahbek.  This has been retired as this is now being actively maintained.
