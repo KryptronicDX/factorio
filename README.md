@@ -4,30 +4,12 @@ This is a repo to save and share the blueprint designs I've created in Factorio.
 
 --------------------
 
-## [Modular Mall](/modular-mall)
-
-Based on Modular Mall by Rahbek
-
-![Module Mall Book](/blueprint-images/modular-mall-book.png)
-![Module Mall Book](/blueprint-images/modular-mall-built.png)
-
-Version 1.2 -
-* Fixed train, artillery wagon, weapons & defense modules
-* Adjusted tiles for transitions
-* Adjusted alarm to 4 items per belt
-* Changed module order
-* Fixed bots module
-* Split artillery and shells from weapons (allows spacing for roboports)
-* Added double-interface for KotS-style mall
-
--------------------
-
 ## [Tiled Supply Hub](/tiled-supply-hub)
 
 Based on Compact Tileable Malls by Dangerpigeon
 
-![Module Mall Book](/blueprint-images/tiled-supply-hub.png)
-![Module Mall Book](/blueprint-images/tiled-supply-hub-built.png)
+![Tiled Supply Hub Book](/blueprint-images/tiled-supply-hub.png)
+![Tiled Supply Hub Built](/blueprint-images/tiled-supply-hub-built.png)
 
 Version 1.1 - 
 * Renamed to Tiled Supply Hub
@@ -118,3 +100,28 @@ The second combinator receives this train limit signal and by multiplying by 1, 
 For quite a while I've mostly used the electric network info by clicking on power poles to see the power, or using a basic setup with lights in a spot I'm near frequently (such as near the supply hub/mall).  This had an alarm if the power in the capacity got too low.  It worked well enough, but I wanted to give something new a try.  I had a post saved from u/warbaque for a while to have a vanilla-based view of power levels and steam (https://www.reddit.com/r/factorio/comments/vgt5at/how_to_see_your_nuclear_and_steam_power/).  I hadn't done anything with it, but decided to give it a shot now that I'm getting more comfortable with the logistics network.  I pulled up the percentage bar, made some tweaks to reduce the size some and added lights for a close visual of the power usage.  With this setup, I can see the percentage of power available in the capactors in the map with rail signal states turned on.
 
 ![Map View Power Meter](/blueprint-images/map-view-power-meter.png)
+
+--------------------
+
+## [Uranium Processing](/uranium-processing)
+
+This is a design I came up with to process raw uranium into Uranium 238 & 235.  Even without modules, this will process enough U-235 to sustain a nuclear reactor (I typically built a 4 reactor power station and then stack them for space).  The alarms are for early uranium processing.  Once Kovarex processing is unlocked, all but the iron alarm should be removed as when Kovarex processing is added (I uses Nilaus' design), it's best to let the chests fill to capacity to maintain a steady-state.  The steel chests can then be upgraded to either storage or passive provider chests as needed for Kovarex processing.
+
+The uranium fuel cell output and spent fuel cell input is placed to work with this reactor design: https://www.reddit.com/r/factorio/comments/xx23fx/compact_tileable_480mw_nuclear_powerplant/.  Instead of one big reactor, I stack additional as needed.
+
+![Uranium Processing](/blueprint-images/uranium-processing.png)
+
+--------------------
+
+## [Modular Mall](/modular-mall)
+
+Based on Modular Mall by Rahbek.  This has been retired as this is now being actively maintained.
+
+Version 1.2 -
+* Fixed train, artillery wagon, weapons & defense modules
+* Adjusted tiles for transitions
+* Adjusted alarm to 4 items per belt
+* Changed module order
+* Fixed bots module
+* Split artillery and shells from weapons (allows spacing for roboports)
+* Added double-interface for KotS-style mall
