@@ -71,18 +71,6 @@ Ribbon Single Rail Version 1.0 -
 
 ![Ribbon Single](/blueprint-images/ribbon-single.png)
 
-
---------------------
-
-## [Oil Processing](/oil)
-
-This is an add-on to plug into my standard base design to handle all oil-based products, input belts for necessary resources, output belts and pipes for the main bus.
-
-Version 1.0 - 
-* Created four stages of design to allow for a staged setup as research is unlocked.
-
-![Oil Processing](/blueprint-images/oil-processing.png)
-
 --------------------
 
 ## [LTN-like Vanilla Provider Limiter](/ltn-vanilla-provider-limiter)
@@ -125,3 +113,12 @@ Version 1.2 -
 * Fixed bots module
 * Split artillery and shells from weapons (allows spacing for roboports)
 * Added double-interface for KotS-style mall
+
+--------------------
+
+## [Oil Processing](/oil)
+
+This is an add-on to plug into my standard base design to handle all oil-based products, input belts for necessary resources, output belts and pipes for the main bus.  This has been retired as I've switched to a more modular design.
+
+Version 1.0 - 
+* Created four stages of design to allow for a staged setup as research is unlocked.
