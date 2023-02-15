@@ -122,6 +122,9 @@ Version 1.2 -
 * Split artillery and shells from weapons (allows spacing for roboports)
 * Added double-interface for KotS-style mall
 
+![Modular Mall Book](/blueprint-images/modular-mall-book.png)
+![Modular Mall Built](/blueprint-images/modular-mall-built.png)
+
 --------------------
 
 ## [Oil Processing](/oil)
@@ -130,3 +133,16 @@ This is an add-on to plug into my standard base design to handle all oil-based p
 
 Version 1.0 - 
 * Created four stages of design to allow for a staged setup as research is unlocked.
+
+![Oil Processing](/blueprint-images/oil-processing.png)
+
+--------------------
+
+## [Train Counter](/train-counter)
+
+This is a remix of a design I found ##[here](https://forums.factorio.com/viewtopic.php?p=546303#p546303).  I came across this after seeing a post on Reddit where someone added a counter to an intersection to see how many trains pass.  I thought this would be a fun addition to learn more about the logic network in Factorio.  I tried a few designs, but found this one easy to work with.  The changes I made was to simplify the design and make it plug-and-play.  Since I usually have power near, I don't need to worry about that.  With this design, a red wire needs to be connected from the signal to the power pole.  Then a green wire from the pole to the global network (should one be nearby and you'd want to see it globally).  
+
+Version 1.0 -
+* Modified design to simply and make it plug-and-play.
+
+![Train Counter](/blueprint-images/train-counter.png)
