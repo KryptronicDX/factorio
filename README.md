@@ -10,10 +10,10 @@ With the new interrupt features in Factrio 2.0, it is now possible to setup a un
 
 The stations are also included using the parametrizated feature in 2.0. Once placed, the selection GUI will appear to select the item the stations will ship or receive. This choice will also auto-fill both the station and combinator to set the limits for station activation based on how many stacks the station or train can support. The stations also include the new display panels for visual feedback on when the station is active and when a train is being sent to the station.
 
-![Universal Train Scheduler Trains](/blueprint-images/universal-train-scheduler-1.png]
-![Universal Train Scheduler Schedule](/blueprint-images/universal-train-scheduler-2.png]
-![Universal Train Scheduler Interrupts](/blueprint-images/universal-train-scheduler-3.png]
-![Universal Train Scheduler Stations](/blueprint-images/universal-train-scheduler-4.png]
+![Universal Train Scheduler Trains](/blueprint-images/universal-train-scheduler-1.png)
+![Universal Train Scheduler Schedule](/blueprint-images/universal-train-scheduler-2.png)
+![Universal Train Scheduler Interrupts](/blueprint-images/universal-train-scheduler-3.png)
+![Universal Train Scheduler Stations](/blueprint-images/universal-train-scheduler-4.png)
 
 Version 1.0 -
 * Created 2-7 digit display designs
@@ -24,7 +24,7 @@ Version 1.0 -
 
 After seeing a three digit display on [Factorio School](https://www.factorio.school/), I wanted to give this a try. After trying the design I found and that it didn't work right, I made these. I did some searching online to find out how to use division to separate a multi-digit number into individual digits to display. Once I figured out the three digit setup, I expanded to support up to seven digits. The constant combinator will be removed and a red signal will need to be sent into the input of the far right combinator as the input to display.  If the signal coming in is on a green wire, it will need to be converted to red with an arithmetic combintor by either multiplying by 1 or adding 0.
 
-![X Digit Displays](/x-digit-displays.png]
+![X Digit Displays](/blueprint-images/x-digit-displays.png)
 
 Version 1.0 - 
 * Created and tested design
@@ -35,8 +35,8 @@ Version 1.0 -
 
 With the new parametrizated feature in 2.0 and seeing content creators make something similar, I created my own. Once placed, set the item to craft and how many to store, and everything else is sent. Can support an item that needs up to 9 ingredients (Spidertron requires 8).
 
-![Universal Assembler Placement](/universal-assembler-1.png]
-![Universal Assembler Set](/universal-assembler-2.png]
+![Universal Assembler Placement](/blueprint-images/universal-assembler-1.png)
+![Universal Assembler Set](/blueprint-images/universal-assembler-2.png)
 
 Version 1.0 - 
 * Created and tested design
