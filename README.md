@@ -6,9 +6,9 @@ This is a repo to save and share the blueprint designs I've created in Factorio.
 
 ## [Universal Train Scheduler](/universal-train-schedule)
 
-With the new interrupt features in Factrio 2.0, it is now possible to setup a universal train schedule. There are two trains, one for cargo and one for fluids. This prevents the wrong train being sent to pickup the wrong request. The train is designed to always go to a refuelling depot when not assigned a schedule. Once the depot receives a request through the circuit network, it will send that request to the train. The train will receive the item request and be dispatched to a shipping station supplying the item requested, and once full, route to the receiving station for drop-off.  The green icons in the images below are placeholders for the item request sent through the circuit network. You can see these in the third image, which also shows the naming scheme of the stations.
+With the new interrupt features in Factrio 2.0, it is now possible to setup a universal train schedule. There are two trains, one for cargo and one for fluids. This prevents the wrong train being sent to pickup the wrong request. The train is designed to always go to a refueling depot when not assigned a schedule. Once the depot receives a request through the circuit network, it will send that request to the train. The train will receive the item request and be dispatched to a shipping station supplying the item requested, and once full, route to the receiving station for drop-off.  The green icons in the images below are placeholders for the item request sent through the circuit network. You can see these in the third image, which also shows the naming scheme of the stations.
 
-The stations are also included using the parametrizated feature in 2.0. Once placed, the selection GUI will appear to select the item the stations will ship or receive. This choice will also auto-fill both the station and combinator to set the limits for station activation based on how many stacks the station or train can support. The stations also include the new display panels for visual feedback on when the station is active and when a train is being sent to the station.
+The stations are also included using the parametrized feature in 2.0. Once placed, the selection GUI will appear to select the item the stations will ship or receive. This choice will also auto-fill both the station and combinator to set the limits for station activation based on how many stacks the station or train can support. The stations also include the new display panels for visual feedback on when the station is active and when a train is being sent to the station.
 
 ![Universal Train Scheduler Trains](/blueprint-images/universal-train-scheduler-1.png)
 ![Universal Train Scheduler Schedule](/blueprint-images/universal-train-scheduler-2.png)
@@ -33,7 +33,7 @@ Version 1.0 -
 
 ## [Universal Assembler](/universal-assembler)
 
-With the new parametrizated feature in 2.0 and seeing content creators make something similar, I created my own. Once placed, set the item to craft and how many to store, and everything else is sent. Can support an item that needs up to 9 ingredients (Spidertron requires 8).
+With the new parametrized feature in 2.0 and seeing content creators make something similar, I created my own. Once placed, set the item to craft and how many to store, and everything else is sent. Can support an item that needs up to 9 ingredients (Spidertron requires 8).
 
 ![Universal Assembler Placement](/blueprint-images/universal-assembler-1.png)
 ![Universal Assembler Set](/blueprint-images/universal-assembler-2.png)
