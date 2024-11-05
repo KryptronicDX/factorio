@@ -20,7 +20,7 @@ Version 1.1 -
 
 --------------------
 
-## [Starter Base - 1.2](/starter-base)
+## [Starter Base - 1.2](/archive/starter-base)
 
 Modified from Nilaus' "Jump Start Base".
 
@@ -35,7 +35,7 @@ Version 1.2
 
 --------------------
 
-## [Ore Miners](/ore-miners)
+## [Ore Miners](/archive/ore-miners)
 
 ![Ore Miners](/blueprint-images/ore-miners-book.png)
 ![Ore Miners](/blueprint-images/ore-miners-placement.png)
@@ -45,7 +45,7 @@ Version 1.2-
 
 --------------------
 
-## [Rail Books](/rails)
+## [Rail Books](/archive/rails)
 
 All based on Brian's Trains 4.19.
 
@@ -83,7 +83,7 @@ The second combinator receives this train limit signal and by multiplying by 1, 
 
 --------------------
 
-## [Map View Power Meter](/map-view-power-meter)
+## [Map View Power Meter](/archive/map-view-power-meter)
 
 For quite a while I've mostly used the electric network info by clicking on power poles to see the power, or using a basic setup with lights in a spot I'm near frequently (such as near the supply hub/mall).  This had an alarm if the power in the capacity got too low.  It worked well enough, but I wanted to give something new a try.  I had a post saved from u/warbaque for a while to have a vanilla-based view of power levels and steam (https://www.reddit.com/r/factorio/comments/vgt5at/how_to_see_your_nuclear_and_steam_power/).  I hadn't done anything with it, but decided to give it a shot now that I'm getting more comfortable with the logistics network.  I pulled up the percentage bar, made some tweaks to reduce the size some and added lights for a close visual of the power usage.  With this setup, I can see the percentage of power available in the capactors in the map with rail signal states turned on.
 
@@ -109,7 +109,7 @@ This is a steam engine power center using solid fuel as the fuel source.  With s
 
 --------------------
 
-## [Modular Mall](/modular-mall)
+## [Modular Mall](/archive/modular-mall)
 
 Based on Modular Mall by Rahbek.  This has been retired as this is now being actively maintained.
 
@@ -127,7 +127,7 @@ Version 1.2 -
 
 --------------------
 
-## [Oil Processing](/oil)
+## [Oil Processing](/archive/oil)
 
 This is an add-on to plug into my standard base design to handle all oil-based products, input belts for necessary resources, output belts and pipes for the main bus.  This has been retired as I've switched to a more modular design.
 
