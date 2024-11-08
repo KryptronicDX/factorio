@@ -4,6 +4,28 @@ This is a repo to save and share the blueprint designs I've created in Factorio.
 
 --------------------
 
+## [9 Digit Display](/9-digit-display)
+
+While the X digit display works well, it is messy.  Watching a Factorio video, I saw a design similar to this, but the video didn't show the combinator settings.  After some trial and error, I figured out how to configure the combinators and set it up with the max digits possible (limited on values in the display panels).  It's a simpler design and easier to adjust.  For a smaller digit display, just removing the most significan digit (left-most) to get the display you want.
+
+![9 Digit Display](/blueprint-images/9-digit-display.png)
+
+Version 1.0 - 
+* Created and tested design
+
+--------------------
+
+## [Chasing Lights](/chasing-lights)
+
+This is a design I've been thinking about off and on for some time, but just couldn't think of the way to do it.  While watching a Factorio video, I was inspired by another design to make this work.  The combinator receives the clock value and divides by four (in this design) to create the segments.  Then each light is tied to a value from the dot signal.  This is also parametrized to adjust the timing and number of segments.
+
+![Chasing Lights](/blueprint-images/chasing-lights.gif)
+
+Version 1.0 - 
+* Created and tested design
+
+--------------------
+
 ## [Universal Train Scheduler](/universal-train-schedule)
 
 With the new interrupt features in Factrio 2.0, it is now possible to setup a universal train schedule. There are two trains, one for cargo and one for fluids. This prevents the wrong train being sent to pickup the wrong request. The train is designed to always go to a refueling depot when not assigned a schedule. Once the depot receives a request through the circuit network, it will send that request to the train. The train will receive the item request and be dispatched to a shipping station supplying the item requested, and once full, route to the receiving station for drop-off.  The green icons in the images below are placeholders for the item request sent through the circuit network. You can see these in the third image, which also shows the naming scheme of the stations.
@@ -42,6 +64,7 @@ Version 1.0 -
 * Created and tested design
 
 --------------------
+
 ## [Tiled Supply Hub](/tiled-supply-hub)
 
 Based on Compact Tileable Malls by Dangerpigeon
