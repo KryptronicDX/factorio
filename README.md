@@ -6,7 +6,7 @@ This is a repo to save and share the blueprint designs I've created in Factorio.
 
 ## [9 Digit Display](/9-digit-display)
 
-While the X digit display works well, it is messy.  Watching a Factorio video, I saw a design similar to this, but the video didn't show the combinator settings.  After some trial and error, I figured out how to configure the combinators and set it up with the max digits possible (limited on values in the display panels).  It's a simpler design and easier to adjust.  For a smaller digit display, just removing the most significan digit (left-most) to get the display you want.
+While the X digit display works well, it is messy.  Watching a Factorio video, I saw a design similar to this, but the video didn't show the combinator settings.  After some trial and error, I figured out how to configure the combinators and set it up with the max digits possible (limited on values in the display panels).  It's a simpler design and easier to adjust.  For a smaller digit display, just removing the most significant digit (left-most) to get the display you want.
 
 ![9 Digit Display](/blueprint-images/9-digit-display.png)
 
