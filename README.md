@@ -4,6 +4,39 @@ This is a repo to save and share the blueprint designs I've created in Factorio.
 
 --------------------
 
+## [1-2 Lane Belt Buffer](/1-2-lane-belt-buffer)
+
+These are in-line buffer/storage of the contents of the built.  Best for single-item belts.  The splitters and inserters are used to pull from the belt into the steel chest, and then back on the belt.  The steel chest can be replace with a logistics chest to feed items into the bot network.  The top design was by me, created for my Warptorio2 runs to have a buffer of items, which is critical for that mod.  The bottom design is from Nilaus and copied to store together.
+
+![1-2 Lane Belt Buffer](/blueprint-images/1-2-lane-belt-buffer.png)
+
+Version 1.0 - 
+* Created and tested design
+
+--------------------
+
+## [Radar Station](/radar-station)
+
+This is a design I've saved for sometime (over two years), and one I found on the internet somewhere.  It may have been from the Factorio forums, but I didn't save the source.  It is a stand-alone radar station that doesn't need to be tied into the power network or need a large setup of solar panels and accumlators.  It uses a trick with the decider combinator to toggle the radar on and off to offer continuous scanning.
+
+![Radar Station](/blueprint-images/radar-station.png)
+
+Version 1.0 - 
+* Created and tested design
+
+--------------------
+
+## [Simple 1-1 Lane Balancer](/simple-1-1-lane-balancer)
+
+While working on a new kickstart base design, I came across this as a way to balance the sides of a belt in a simpler and a bit more compact way than the standard design.
+
+![Simple 1-1 Lane Balancer](/blueprint-images/simple-1-1-lane-balancer.png)
+
+Version 1.0 - 
+* Created and tested design
+
+--------------------
+
 ## [9 Digit Display](/9-digit-display)
 
 While the X digit display works well, it is messy.  Watching a Factorio video, I saw a design similar to this, but the video didn't show the combinator settings.  After some trial and error, I figured out how to configure the combinators and set it up with the max digits possible (limited on values in the display panels).  It's a simpler design and easier to adjust.  For a smaller digit display, just removing the most significant digit (left-most) to get the display you want.
