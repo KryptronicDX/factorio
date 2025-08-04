@@ -10,8 +10,8 @@ These are in-line buffer/storage of the contents of the built.  Best for single-
 
 ![1-2 Lane Belt Buffer](/blueprint-images/1-2-lane-belt-buffer.png)
 
-Version 1.0 - 
-* Created and tested design
+Version 1.1 - 
+* Updated 1 lane buffer for optimization
 
 --------------------
 
