@@ -63,7 +63,7 @@ Version 1.0 -
 
 --------------------
 
-## [Car Fuelling Drops](/car-fuelling-drops)
+## [Car Fueling Drops](/car-fuelling-drops)
 
 Place to have bots place car and request fuel
 
