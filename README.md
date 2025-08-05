@@ -4,11 +4,22 @@ This is a repo to save and share the blueprint designs I've created in Factorio.
 
 --------------------
 
+## [Armed Turrets](/armed-turrets)
+
+When placed, bots will set the turret and arm them with 30 clips of the chosen ammunition.
+
+![Armed Turrets](/blueprint-images/armed-turrets.png)
+
+Version 1.0 - 
+* Created and tested designs.
+
+--------------------
+
 ## [Car Fuelling Drops](/car-fuelling-drops)
 
 Place to have bots place car and request fuel
 
-![Single SR Latch](/blueprint-images/car-fuelling-drops.png)
+![Car Fuelling Drops](/blueprint-images/car-fuelling-drops.png)
 
 Version 1.0 - 
 * Created and tested design.
