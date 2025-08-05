@@ -4,6 +4,20 @@ This is a repo to save and share the blueprint designs I've created in Factorio.
 
 --------------------
 
+## [Fission Reactor Modules](/fission-reactor-modules)
+
+Fission reactor modules with different power production levels.
+
+![Fission Reactor Modules](/blueprint-images/fission-reactor-modules-1.png)
+![Fission Reactor Modules](/blueprint-images/fission-reactor-modules-2.png)
+![Fission Reactor Modules](/blueprint-images/fission-reactor-modules-3.png)
+![Fission Reactor Modules](/blueprint-images/fission-reactor-modules-4.png)
+
+Version 1.0 - 
+* Created and tested designs.
+
+--------------------
+
 ## [Steam Engine Modules](/steam-engine-modules)
 
 Steam engine modules with different power production levels.
