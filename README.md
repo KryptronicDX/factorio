@@ -67,7 +67,7 @@ Version 1.0 -
 
 Place to have bots place car and request fuel
 
-![Car Fuelling Drops](/blueprint-images/car-fuelling-drops.png)
+![Car Fuelling Drops](/blueprint-images/car-fueling-drops.png)
 
 Version 1.0 - 
 * Created and tested design.
