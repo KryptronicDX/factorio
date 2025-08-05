@@ -4,6 +4,18 @@ This is a repo to save and share the blueprint designs I've created in Factorio.
 
 --------------------
 
+## [Kovarex Modules](/kovarex-modules)
+
+Different kovarex modules based on logistic choice, one for belts and one for bots.
+
+![Kovarex Modules](/blueprint-images/kovarex-modules-1.png)
+![Kovarex Modules](/blueprint-images/kovarex-modules-2.png)
+
+Version 1.0 - 
+* Created and tested designs.
+* 
+--------------------
+
 ## [Fission Reactor Modules](/fission-reactor-modules)
 
 Fission reactor modules with different power production levels.
