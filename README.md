@@ -104,8 +104,8 @@ The stations are also included using the parametrized feature in 2.0. Once place
 ![Universal Train Scheduler Interrupts](/blueprint-images/universal-train-scheduler-3.png)
 ![Universal Train Scheduler Stations](/blueprint-images/universal-train-scheduler-4.png)
 
-Version 1.0 -
-* Created 2-7 digit display designs
+Version 1.1 -
+* Updated scheduling and fluid stations
 
 --------------------
 
