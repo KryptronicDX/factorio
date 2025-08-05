@@ -4,6 +4,17 @@ This is a repo to save and share the blueprint designs I've created in Factorio.
 
 --------------------
 
+## [Car Fuelling Drops](/car-fuelling-drops)
+
+Place to have bots place car and request fuel
+
+![Single SR Latch](/blueprint-images/car-fuelling-drops.png)
+
+Version 1.0 - 
+* Created and tested design.
+
+--------------------
+
 ## [Single SR Latch](/single-sr-latch)
 
 A correct version of the single item SR latch posted by Potential-Carob-3058 at redd.it/1grxsox.  In testing, I found that the logic operations needed to change to operate correctly.
