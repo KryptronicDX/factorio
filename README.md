@@ -4,6 +4,17 @@ This is a repo to save and share the blueprint designs I've created in Factorio.
 
 --------------------
 
+## [Intersection Counter](/intersection-counter)
+
+Red input from signal to pole, then green output from pole to network for monitoring.  Returns [item=locomotive] signal with count.  Based on this design: https://forums.factorio.com/viewtopic.php?p=546303#p546303.
+
+![Intersection Counter](/blueprint-images/intersection-counter.png)
+
+Version 1.0 - 
+* Created and tested designs.
+  
+--------------------
+
 ## [Armed Turrets](/armed-turrets)
 
 When placed, bots will set the turret and arm them with 30 clips of the chosen ammunition.
