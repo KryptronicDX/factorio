@@ -4,6 +4,18 @@ This is a repo to save and share the blueprint designs I've created in Factorio.
 
 --------------------
 
+## [Single SR Latch](/single-sr-latch)
+
+A correct version of the single item SR latch posted by Potential-Carob-3058 at redd.it/1grxsox.  In testing, I found that the logic operations needed to change to operate correctly.
+
+![Single SR Latch](/blueprint-images/single-sr-latch-1.png)
+![Single SR Latch](/blueprint-images/single-sr-latch-2.png)
+
+Version 1.0 - 
+* Corrected design by Walker/potential-carob 3058 from redd.it/1grxsox.
+
+--------------------
+
 ## [1-2 Lane Belt Buffer](/1-2-lane-belt-buffer)
 
 These are in-line buffer/storage of the contents of the built.  Best for single-item belts.  The splitters and inserters are used to pull from the belt into the steel chest, and then back on the belt.  The steel chest can be replace with a logistics chest to feed items into the bot network.  The top design was by me, created for my Warptorio2 runs to have a buffer of items, which is critical for that mod.  The bottom design is from Nilaus and copied to store together.
