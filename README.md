@@ -127,8 +127,8 @@ With the new parametrized feature in 2.0 and seeing content creators make someth
 ![Universal Assembler Placement](/blueprint-images/universal-assembler-1.png)
 ![Universal Assembler Set](/blueprint-images/universal-assembler-2.png)
 
-Version 1.0 - 
-* Created and tested design
+Version 1.1 - 
+* Updated logistic connection to assembler
 
 --------------------
 
