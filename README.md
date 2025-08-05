@@ -4,6 +4,17 @@ This is a repo to save and share the blueprint designs I've created in Factorio.
 
 --------------------
 
+## [Steam Engine Modules](/steam-engine-modules)
+
+Steam engine modules with different power production levels.
+
+![Steam Engine Modules](/blueprint-images/steam-engine-modules.png)
+
+Version 1.0 - 
+* Created and tested designs.
+  
+--------------------
+
 ## [Intersection Counter](/intersection-counter)
 
 Red input from signal to pole, then green output from pole to network for monitoring.  Returns [item=locomotive] signal with count.  Based on this design: https://forums.factorio.com/viewtopic.php?p=546303#p546303.
